@@ -1,0 +1,11 @@
+body {
+    display: flex;
+    height: 100vh;
+}
+.div {
+    border: 1px solid gainsboro;
+    width: 165px;
+    border-radius: 50px;
+    background-color: gainsboro;
+    margin: auto;
+}
